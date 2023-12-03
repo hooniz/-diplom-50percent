@@ -20,7 +20,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-timepicker-addon/1.6.3/jquery-ui-timepicker-addon.min.js" ></script>
     <script>
     $.datepicker.regional['ru'] = {
-	closeText: 'Закрыть',
+	closeText: 'Закрытьь',
 	prevText: 'Предыдущий',
 	nextText: 'Следующий',
 	currentText: 'Сегодня',
