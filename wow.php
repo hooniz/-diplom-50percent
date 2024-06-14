@@ -228,8 +228,8 @@ $.timepicker.setDefaults($.timepicker.regional['ru']);</script>
                             <a name="contacts"></a>
                             <p class="footer_a">КОНТАКТЫ</p>
                             <p class="footer_p">Казань; Баумана 12</p>
-                            <p class="footer_p">Тел: +7 (919) 649-56-78</p>
-                            <p class="footer_p">WhatsApp: +7 (919) 649-56-78</p>
+                            <p class="footer_p">Тел: +7 (999) 999-99-99</p>
+                            <p class="footer_p">WhatsApp: +7 (999) 999-99-99</p>
                             <p class="footer_p">9:00-21:00 ежедневно</p>
                         </div>
                     </div>
